@@ -1,0 +1,24 @@
+
+For Running the Project on your localhost server follow the follwing steps given below :
+
+1.Fisrt you have to have XAMPP Installed on your Computer Device.XAMPP Control Pannel V3.3.0 is suitable for the Project.
+Download link for XAMPP- APACHE Friend is "https://www.apachefriends.org/download.html"
+Download version 8.1.5 / PHP 8.1.5 .
+
+
+2.Then Extract the file "multipart.rar"
+
+Then copy the File "multipart" and paste it into the htdocs folder of your xampp .
+
+3. After Run the XAMPP Control panel start Apache and MySQL as well. Run localhost as URL "http://localhost/phpmyadmin/" .
+
+4. Creat a database on "http://localhost/phpmyadmin/" with the same name as the file newp_dib sql on database folder of "multipart" folder.
+
+5 After the new Database creation as "ticker_reserve" import the "ticker_reserve.sql" file from database folder.
+
+6.Then Run the file "multipart" from "http://localhost/" as "http://localhost/multipart/" or  diretory of project folder.
+ 
+For run the Rest Api .
+Open the Api folder in VS code.run a new terminal.Run the Api with express js or node.js Command.
+Then use the System ..
+Thank You and Good luck.

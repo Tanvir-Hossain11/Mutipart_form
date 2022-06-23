@@ -1,0 +1,6 @@
+*Localstorage Data are not encrypted and could not fetch the for displaying on step 6.Could not able to convert the value before 
+submission as get data from localstorge is not fullfilled.
+*the code of error message and reservation comfirmation is not working.
+*I could not implement not much functions for Api.only displaying data from database on "/alldata " http://localhost:8080/alldata
+i used isomnia and postman for Api Implementation.
+*there are some lackings in  designing the multipart form properly.
